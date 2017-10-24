@@ -111,6 +111,14 @@ layout: default
                 <!-- disqus 评论框 end -->
                 {% endif %}
 
+                {% if site.livere_uid %}
+                <!-- livere 评论框 start -->
+                <div class="comment">
+                    <div id="lv-container" data-id="city" data-uid="{{ site.livere_uid }}"></div>
+                </div>
+                <!-- livere 评论框 end -->
+                {% endif %}
+
             </div>
 
     <!-- Sidebar Container -->

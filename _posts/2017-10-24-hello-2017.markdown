@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "Welcome to Ming's Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2017-10-24 15:00:00
+author:     "MagentaM"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - lifes
+---
+
+> “Yeah It's on. ”
+
+
+## Intro
+
+I had an old portfolio website built with WIX. This year, I'm starting to learn deeper computer graphics (I used to work with Unity ShaderLab). Instead of just presenting my final outcomes with pictures, I'm wishing to post some technical details to explain what I did. However, WIX doesn't allow me to post my code. So I'm decide to build up this blog on my own and migrating everything here.
+
+
+
+<p id = "build"></p>
+---
+
+## How to build your blog with github.io
+
+I used [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) to make this website. It's a very popular way to setup personal blog, and you can find many resources and Jekyll themes online. For example:
+
+* [jekyllthemes.org](http://jekyllthemes.org/)  
+* [jekyll-themes.com](https://jekyll-themes.com/)
+* [mademistakes](https://mademistakes.com/work/jekyll-themes/)
+
+[This](https://github.com/huxpro/huxpro.github.io/) is the theme I'm using. If you want to use this theme, you need to 1. install Ruby, 2. install jekyll, 3. register GitHub and create GitHub Pages, 4. follow the instructions provided in the link.
+
+The most difficult part is setting up the environment. It took me three hours to figure things out(obviously I have no experience with web stuff), but it definitely worths it! TRUST YOUR SELF :)
+
+---
+## In the end
+I'll post my works, lifes and blogs here. That's it.
