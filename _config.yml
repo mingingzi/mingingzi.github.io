@@ -78,13 +78,13 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Ruohan's Blog",
+        title: "Ruohan Tang",
         href: "http://ruohantang.com"
     },{
-        title: "Example Friends",
+        title: "",
         href: "#"
     },{
-        title: "It helps SEO",
+        title: "",
         href: "#"
     }
 ]
