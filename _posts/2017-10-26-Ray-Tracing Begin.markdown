@@ -6,7 +6,9 @@ date: 2017-10-26T17:00:00.000Z
 author: MagentaM
 header-img: img/post-bg-2015.jpg
 tags:
-  - C++ - graphics - rayTracing
+  - C++
+  - graphics
+  - ray tracing
 subtitle: ' "Ray-Tracing Begins"'
 ---
 ## Ray-Tracing Beginner
