@@ -38,9 +38,9 @@ The most difficult part is setting up the environment. It took me three hours to
 
 I'm using [Prose](http://prose.io "prose") to update blogs.
 
-Pros:It can directly push your .markdown files to GitHub repository, and the blog will be updated on your website immediately. Some formatting tools are very handy.
+Pros: It can directly push your .markdown files to GitHub repository, and the blog will be updated on your website immediately. Some formatting tools are very handy.
 
-Cons:The Review mode is buggy. Sometimes my code is correct one the website, but the Review mode shows messy formatting.
+Cons: The Review mode is buggy. Sometimes my code is correct on the website, but the Review mode shows messy formatting.
 
 Reminder: Don't forget to fillout MetaData section, otherwise your articles won't show on your website.
 
