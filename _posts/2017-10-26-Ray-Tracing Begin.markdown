@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Ray-Tracing Beginner
 
