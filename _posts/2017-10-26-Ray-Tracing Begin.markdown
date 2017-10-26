@@ -2,18 +2,18 @@
 published: true
 layout: post
 title: Ray-Tracing Begins
+subtitle: ' Study Notes for Ray-Tracing in One Week'
 date: 2017-10-26T17:00:00.000Z
 author: MagentaM
-header-img: img/post-bg-2015.jpg
+header-img: img/in-post/10-26-bg.jpg
 tags:
   - C++
   - graphics
   - ray tracing
-subtitle: ' "Ray-Tracing Begins"'
 ---
 ## Ray-Tracing Beginner
 
-Starting from today, I'm learning ray-tracing by following Peter Shirley's  Ray Tracing in One Weekend. Welcome to visit my GitHub page to check out my progress.
+Starting from today, I'm learning ray-tracing by following Peter Shirley's Ray Tracing in One Weekend. Welcome to visit my GitHub page to check out my progress.
  
 As a math major without any background in C++, I bumped into problem of running the code provided in the chapter one immediately after reading the book for three minutes... There's nowhere to generate a .ppm image file!
  
