@@ -2,11 +2,11 @@
 published: true
 layout: post
 title: Ray-Tracing Begins
-date: 2017-10-26T16:00:00.000Z
+date: 2017-10-26T17:00:00.000Z
 author: MagentaM
 header-img: img/post-bg-2015.jpg
 tags:
-  - C++ - Graphics - RayTracing
+  - C++ - graphics - rayTracing
 subtitle: ' "Ray-Tracing Begins"'
 ---
 ## Ray-Tracing Beginner
