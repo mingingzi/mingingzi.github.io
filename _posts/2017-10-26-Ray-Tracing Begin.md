@@ -8,7 +8,7 @@ Starting from today, I'm learning ray-tracing by following Peter Shirley's  Ray 
 As a math major without any background in C++, I bumped into problem of running the code provided in the chapter one immediately after reading the book for three minutes... There's nowhere to generate a .ppm image file!
  
 Finally I figured out how to make it work. Code is provided below.
-```
+```C++
 #include <iostream>
 #include <fstream>
 
