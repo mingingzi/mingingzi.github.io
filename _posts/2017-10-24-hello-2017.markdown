@@ -1,12 +1,13 @@
 ---
-layout:     post
-title:      "Welcome to Ming's Blog"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2017-10-24 15:00:00
-author:     "MagentaM"
-header-img: "img/post-bg-2015.jpg"
+layout: post
+title: Welcome to Ming's Blog
+subtitle: ' "Hello World, Hello Blog"'
+date: {}
+author: MagentaM
+header-img: img/post-bg-2015.jpg
 tags:
-    - lifes
+  - lifes
+published: true
 ---
 
 > “Yeah It's on. ”
@@ -32,6 +33,16 @@ I used [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/
 [This](https://github.com/huxpro/huxpro.github.io/) is the theme I'm using. If you want to use this theme, you need to 1. install Ruby, 2. install jekyll, 3. register GitHub and create GitHub Pages, 4. follow the instructions provided in the link.
 
 The most difficult part is setting up the environment. It took me three hours to figure things out(obviously I have no experience with web stuff), but it definitely worths it!
+
+## How to maintain your blog
+
+I'm using [Prose](http://prose.io "prose") to update blogs.
+
+Pros:It can directly push your .markdown files to GitHub repository, and the blog will be updated on your website immediately. Some formatting tools are very handy.
+
+Cons:The Review mode is buggy. Sometimes my code is correct one the website, but the Review mode shows messy formatting.
+
+Reminder: Don't forget to fillout MetaData section, otherwise your articles won't show on your website.
 
 ---
 ## In the end
