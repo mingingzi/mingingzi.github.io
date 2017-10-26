@@ -1,6 +1,16 @@
 ---
 published: false
 ---
+---
+layout:     post
+title:      "Ray-Tracing Begins"
+date:       2017-10-26 16:00:00
+author:     "MagentaM"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - C++ - Graphics - RayTracing
+---
+
 ## Ray-Tracing Beginner
 
 Starting from today, I'm learning ray-tracing by following Peter Shirley's  Ray Tracing in One Weekend. Welcome to visit my GitHub page to check out my progress.
@@ -34,5 +44,6 @@ int main() {
 	return 0;
 }
 ```
+---
 ## Notes for Beginners Like Me
 _oftream ppm_ is output file stream type, which means everything after _ppm_(connected with <<) will go into _ppm_ as output.
