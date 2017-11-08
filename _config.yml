@@ -14,8 +14,8 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 RSS: false
 zhihu_username:     ming-43
 github_username:    mingingzi
-#twitter_username:  huxpro
-
+steam_username:     shimeizm
+linkedin_username:  0mingzi0
 
 
 # Build settings
