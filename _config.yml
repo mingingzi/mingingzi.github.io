@@ -45,11 +45,11 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
+disqus_username: mingzi
 
 # LiveRe setttings
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC8zMTUwNC84MDY4
+# livere_uid: MTAyMC8zMTUwNC84MDY4
 
 
 
