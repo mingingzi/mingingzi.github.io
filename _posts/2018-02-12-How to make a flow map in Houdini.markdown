@@ -2,7 +2,7 @@
 published: true
 layout: post
 subtitle: ' How to Make a Simple Flow Map in Houdini'
-date: {}
+date: 2018-02-13T17:00:00.000Z
 author: MagentaM
 header-img: img/in-post/10-26-bg.jpg
 tags:
