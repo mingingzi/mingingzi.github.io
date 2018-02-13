@@ -1,5 +1,13 @@
 ---
 published: false
+layout: post
+subtitle: ' How to Make a Simple Flow Map in Houdini'
+date: 2018-02-12T17:00:00.000Z
+author: MagentaM
+header-img: img/in-post/10-26-bg.jpg
+tags:
+  - Houdini
+  - VFX
 ---
 ## General Idea
 
