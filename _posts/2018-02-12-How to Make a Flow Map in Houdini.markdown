@@ -4,7 +4,7 @@ layout: post
 subtitle: ' Flow the way you want!'
 date: 2018-02-13T17:00:00.000Z
 author: MagentaM
-header-img: img/in-post/10-26-bg.jpg
+header-img: img/in-post/2-19-bg.jpg
 tags:
   - Houdini
   - VFX

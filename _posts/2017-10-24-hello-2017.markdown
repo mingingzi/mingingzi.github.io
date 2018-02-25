@@ -42,7 +42,7 @@ Pros: It can directly push your .markdown files to GitHub repository, and the bl
 
 Cons: The Review mode is buggy. Sometimes my code is correct on the website, but the Review mode shows messy formatting.
 
-Reminder: Don't forget to fillout MetaData section, otherwise your articles won't show on your website.
+[Here](http://www.websbytodd.com/documentation/using-prose/#save-and-publish-your-post) is a tutorial on Prose that I find very useful.
 
 ---
 ## In the end
