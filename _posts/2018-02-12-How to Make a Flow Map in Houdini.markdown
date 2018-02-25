@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title:      "How to Make a Flow-map in Houdini"
 subtitle: ' Flow the way you want!'
 date: 2018-02-13T17:00:00.000Z
 author: MagentaM
