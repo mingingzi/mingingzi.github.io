@@ -17,7 +17,10 @@ tags:
 3. Translate the vector field into a color map, and bake it out.
 
 ## Network Overview
-Update later
+![flowmap_graph](http://mingingzi.github.io/img/in-post/flowmap.jpg)
+
+Result:
+![flowmap](http://mingingzi.github.io/img/in-post/Flowmap-result.jpg)
 
 ## Notice
 

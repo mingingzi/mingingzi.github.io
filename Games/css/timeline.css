@@ -157,8 +157,8 @@ body, html {
 .i-lumberyard:before {
 	content: "";
 	display: block;
-	width: 40px;
-	height: 40px;
+	width: 100px;
+	height: 80px;
 	background: url("../images/logo-lumberyard.jpg") 50% 50% no-repeat;
 	background-size: 20px;
 }
