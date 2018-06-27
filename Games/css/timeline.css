@@ -145,13 +145,22 @@ body, html {
 }
 
 /** Venders Logo **/
-.i-vue:before {
+.i-maya:before {
 	content: "";
-    display: block;
-    width: 40px;
-    height: 40px;
-    background: url("../images/logo-vue.png") 50% 50% no-repeat;
-    background-size: 20px;
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-maya.jpg") 50% 50% no-repeat;
+	background-size: 20px;
+}
+
+.i-lumberyard:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-lumberyard.jpg") 50% 50% no-repeat;
+	background-size: 20px;
 }
 
 .i-photoshop:before {
